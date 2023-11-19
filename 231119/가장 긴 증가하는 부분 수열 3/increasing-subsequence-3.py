@@ -1,4 +1,4 @@
-from bisect import bisect_left,bisect_right
+from bisect import bisect_left
 
 n = int(input())
 array = list(map(int,input().split()))
